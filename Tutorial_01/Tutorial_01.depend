@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633793045 source:d:\proiecte sfml c++\tutorial_01\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+
